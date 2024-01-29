@@ -7,6 +7,7 @@ I'm a data enthusiast and business intelligence analyst with a focus on creating
 ### [Sales Dashboard Report]([link-to-sales-dashboard](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD))
 <img width="900" alt="Executive Sales Dashboard" src="https://github.com/Victor7615/Sales-Analysis/assets/92019004/2df9bec1-e791-401b-a902-fd4ac49242f8">
 
+[Dashboard Link](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD)
 
 #### Problem Statement
 In the dynamic business landscape, understanding and analyzing sales data efficiently is crucial for strategic decision-making. The challenge was to create a comprehensive sales dashboard that provides actionable insights, identifies trends, and supports data-driven decision-making.
