@@ -1,11 +1,12 @@
-# Hello, I'm [Victor Emuchay] 👋
+# Hello, I'm Victor Emuchay 👋
 
 I'm a data enthusiast and business intelligence analyst with a focus on creating insightful visualizations using Power BI. Welcome to my GitHub profile! Explore the projects below to see my work in action.
 
 ## 🚀 Featured Project: Sales Dashboard Report
 
 ### [Sales Dashboard Report]([link-to-sales-dashboard](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD))
-![Sales Dashboard]()
+<img width="900" alt="Executive Sales Dashboard" src="https://github.com/Victor7615/Sales-Analysis/assets/92019004/2df9bec1-e791-401b-a902-fd4ac49242f8">
+()
 
 #### Problem Statement
 In the dynamic business landscape, understanding and analyzing sales data efficiently is crucial for strategic decision-making. The challenge was to create a comprehensive sales dashboard that provides actionable insights, identifies trends, and supports data-driven decision-making.
