@@ -36,6 +36,7 @@ The data for this project was sourced from our SQL database, which includes info
 - **Data Visualization:** Looker Studio,Power BI, Tableau,Python
 - **Database:** SQL (SQL Server,MySQL, PostgreSQL)
 - **ETL:** Power Query
+- **Data Cleaning:** Excel,Python,Power Query
 - **Data Analysis:** Excel, Python
 
 ## 🔗 Connect with Me
