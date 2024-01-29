@@ -25,23 +25,22 @@ In the dynamic business landscape, understanding and analyzing sales data effici
 - **Time Series Analysis:** Time-based analysis for seasonality and trends.
 
 #### Technologies Used
-- **Power BI:** Dashboard creation, visualization, and interactivity.
-- **SQL:** Data extraction, transformation, and loading (ETL) from databases.
-- **Power Query:** Data cleaning and transformation within Power BI.
+- **Looker Studio:** Dashboard creation, visualization, and interactivity.
+- **SQL:** Data extraction, transformation, and loading (ETL) from databases and Analysis.
 
 ### Data Source
 The data for this project was sourced from our SQL database, which includes information about sales transactions, products, and customer details.
 
 ## 🛠️ Skills
 
-- **Data Visualization:** Power BI, Tableau
-- **Database:** SQL (MySQL, PostgreSQL)
+- **Data Visualization:** Looker Studio,Power BI, Tableau,Python
+- **Database:** SQL (SQL Server,MySQL, PostgreSQL)
 - **ETL:** Power Query
 - **Data Analysis:** Excel, Python
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/victoremuchay/))
+- [LinkedIn](https://www.linkedin.com/in/victoremuchay/)
 
 
 Feel free to reach out if you have any questions or if you are interested in collaboration!
