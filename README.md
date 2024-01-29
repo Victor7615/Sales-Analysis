@@ -1,6 +1,6 @@
 # Hello, I'm Victor Emuchay 👋
 
-I'm a data enthusiast and business intelligence analyst with a focus on creating insightful visualizations using Power BI. Welcome to my GitHub profile! Explore the projects below to see my work in action.
+I'm a data enthusiast and business intelligence analyst with a focus on creating insightful visualizations using Looker Studio. Welcome to my GitHub profile! Explore the projects below to see my work in action.
 
 ## 🚀 Featured Project: Sales Dashboard Report
 
