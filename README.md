@@ -5,7 +5,7 @@ I'm a data enthusiast and business intelligence analyst with a focus on creating
 ## 🚀 Featured Project: Sales Dashboard Report
 
 ### [Sales Dashboard Report]([link-to-sales-dashboard](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD))
-![Sales Dashboard](link-to-dashboard-image.png)
+![Sales Dashboard]()
 
 #### Problem Statement
 In the dynamic business landscape, understanding and analyzing sales data efficiently is crucial for strategic decision-making. The challenge was to create a comprehensive sales dashboard that provides actionable insights, identifies trends, and supports data-driven decision-making.
@@ -41,6 +41,6 @@ The data for this project was sourced from our SQL database, which includes info
 ## 🔗 Connect with Me
 
 - [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/victoremuchay/))
-- [Twitter](your-twitter-profile)
+
 
 Feel free to reach out if you have any questions or if you are interested in collaboration!
