@@ -46,7 +46,7 @@ The total profit during the specified period ranged from £0 to £17.5K.
 
 ### Total Profit (Dec 1, 2019 - Dec 9, 2019) vs (Dec 1, 2018 - Dec 9, 2018)
 
-![Total Profit Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
+![Total Profit Chart](SalesBYQuarter.PNG)
 
 The total profit during the specified period ranged from £0 to £5K.
 
@@ -60,7 +60,7 @@ The total sales across quarters ranged from £0 to £95.7K.
 
 To access the Executive Sales Dashboard:
 
-1. Click on the following link: [Executive Sales Dashboard](SalesBYQuarter.PNG)
+1. Click on the following link: [Executive Sales Dashboard](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD)
 2. Log in with appropriate credentials if required.
 
 ## Contributing
