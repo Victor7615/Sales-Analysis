@@ -49,7 +49,7 @@ The Executive Sales Dashboard offers a comprehensive view of sales performance a
 
 The total profit during the specified period ranged from £0 to £17.5K.
 
-### Total Profit (Dec 1, 2019 - Dec 9, 2019)
+### Total Profit (Dec 1, 2019 - Dec 9, 2019) vs (Dec 1, 2018 - Dec 9, 2018)
 
 ![Total Profit Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
 
