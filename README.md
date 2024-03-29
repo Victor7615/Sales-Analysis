@@ -38,23 +38,23 @@ The Executive Sales Dashboard offers a comprehensive view of sales performance a
 
 ## Executive Sales Report - Profit Over Time Comparison
 
-### Total Profit (Oct 1, 2019 - Oct 31, 2019)
+### Total Profit (Oct 1, 2019 - Oct 31, 2019) vs (Nov 1, 2019 - Nov 31, 2019)
 
 ![Total Profit Chart](Monthly_comparism.PNG)
 
-The total profit during the specified period ranged from £0 to £17.5K.
+The total profit trend during the specified shows the performance of sale for the periods in question,comaparing them side by side with each other.
 
 ### Total Profit (Dec 1, 2019 - Dec 9, 2019) vs (Dec 1, 2018 - Dec 9, 2018)
 
-![Total Profit Chart](SalesBYQuarter.PNG)
+![Total Profit Chart](Year-week.PNG)
 
-The total profit during the specified period ranged from £0 to £5K.
+The total profit trend during the specified shows the performance of sale for the periods in question,comaparing them side by side with each other.
 
 ### Total Sales
 
-![Total Sales Chart](Year-week.PNG)
+![Total Sales Chart](SalesBYQuarter.PNG)
 
-The total sales across quarters ranged from £0 to £95.7K.
+The total sales across quarters, we can see that the last quarter generates the most revenue compared to other(95.7k),which may be due for further analysis to find out why.A Hypothesis for this might be due to promotional activities during the period like Black friday.
 
 ## Usage
 
