@@ -18,27 +18,67 @@ In the dynamic business landscape, understanding and analyzing sales data effici
 3. **Geographical Impact:** Evaluating regional sales distribution to identify high-potential markets and areas that need attention.
 4. **Customer Segmentation:** Understanding customer purchasing behavior to tailor marketing and sales strategies.
 5. **Time-Based Analysis:** Identifying peak sales hours and days for effective resource allocation.
+Certainly! Here's the updated README file with the content from the current page:
 
-#### Features
-- **Sales Overview:** Visualizations depicting sales trends, revenue, and performance metrics.
-- **Product Analysis:** Breakdown of sales by product categories and individual products.
-- **Geospatial Analysis:** Regional sales distribution using interactive maps.
-- **Time Series Analysis:** Time-based analysis for seasonality and trends.
+---
 
-#### Technologies Used
-- **Looker Studio:** Dashboard creation, visualization, and interactivity.
-- **SQL:** Data extraction, transformation, and loading (ETL) from databases and Analysis.
+# Executive Sales Report
 
-### Data Source
-The data for this project was sourced from our SQL database, which includes information about sales transactions, products, and customer details.
+This repository contains an executive sales report dashboard that provides insights into sales, profits, and customer trends.
 
-## 🛠️ Skills
+## Overview
 
-- **Data Visualization:** Looker Studio,Power BI, Tableau,Python
-- **Database:** SQL (SQL Server,MySQL, PostgreSQL)
-- **ETL:** Power Query
-- **Data Cleaning:** Excel,Python,Power Query
-- **Data Analysis:** Excel, Python
+The Executive Sales Dashboard offers a comprehensive view of sales performance across different metrics such as:
+
+- Number of orders compared to the previous week
+- Profit and revenue comparisons on a weekly and monthly basis
+- Average profit per sale and items per sale
+- Trends in unique customers on a weekly and monthly basis
+
+## Dashboard Features
+
+- **Country-wise Analysis**: Provides insights into sales performance across various countries.
+- **Time-based Comparisons**: Allows comparison of sales and profit metrics over different time periods.
+- **Customer Insights**: Tracks the number of orders, total sales, and number of customers.
+
+## Executive Sales Report - Profit Over Time Comparison
+
+### Total Profit (Oct 1, 2019 - Oct 31, 2019)
+
+![Total Profit Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
+
+The total profit during the specified period ranged from £0 to £17.5K.
+
+### Total Profit (Dec 1, 2019 - Dec 9, 2019)
+
+![Total Profit Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
+
+The total profit during the specified period ranged from £0 to £5K.
+
+### Total Sales
+
+![Total Sales Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
+
+The total sales across quarters ranged from £0 to £95.7K.
+
+## Usage
+
+To access the Executive Sales Dashboard:
+
+1. Click on the following link: [Executive Sales Dashboard](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD)
+2. Log in with appropriate credentials if required.
+
+## Contributing
+
+Contributions to enhance the dashboard or add new features are welcome. If you wish to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a pull request.
+
 
 ## 🔗 Connect with Me
 
