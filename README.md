@@ -1,6 +1,6 @@
 # Hello, I'm Victor Emuchay 👋
 
-I'm a data enthusiast and business intelligence analyst with a focus on creating insightful visualizations using Looker Studio. Welcome to my GitHub profile! Explore the projects below to see my work in action.
+I'm a data enthusiast and business intelligence analyst with a focus on creating insightful visualizations using Looker Studio. Welcome to my GitHub profile! Explore the projects below to see my work in action.This repository contains an executive sales report dashboard that provides insights into sales, profits, and customer trends.
 
 ## 🚀 Featured Project: Sales Dashboard Report
 
@@ -20,11 +20,6 @@ In the dynamic business landscape, understanding and analyzing sales data effici
 5. **Time-Based Analysis:** Identifying peak sales hours and days for effective resource allocation.
 Certainly! Here's the updated README file with the content from the current page:
 
----
-
-# Executive Sales Report
-
-This repository contains an executive sales report dashboard that provides insights into sales, profits, and customer trends.
 
 ## Overview
 
