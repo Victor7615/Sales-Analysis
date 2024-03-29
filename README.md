@@ -40,7 +40,7 @@ The Executive Sales Dashboard offers a comprehensive view of sales performance a
 
 ### Total Profit (Oct 1, 2019 - Oct 31, 2019)
 
-![Total Profit Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
+![Total Profit Chart](Monthly_comparism.PNG)
 
 The total profit during the specified period ranged from £0 to £17.5K.
 
@@ -52,7 +52,7 @@ The total profit during the specified period ranged from £0 to £5K.
 
 ### Total Sales
 
-![Total Sales Chart](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/p_b73n1rffad)
+![Total Sales Chart](Year-week.PNG)
 
 The total sales across quarters ranged from £0 to £95.7K.
 
@@ -60,7 +60,7 @@ The total sales across quarters ranged from £0 to £95.7K.
 
 To access the Executive Sales Dashboard:
 
-1. Click on the following link: [Executive Sales Dashboard](https://lookerstudio.google.com/u/0/reporting/b0692bbc-42d0-46ba-8120-2eb58ddcee65/page/OUOeD)
+1. Click on the following link: [Executive Sales Dashboard](SalesBYQuarter.PNG)
 2. Log in with appropriate credentials if required.
 
 ## Contributing
